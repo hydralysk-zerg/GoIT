@@ -8,7 +8,7 @@ body {
     flex-direction: row-reverse;
     width: 1200px;
     background: #fff;
-    margin: 40px;
+    margin: 40px auto;
 }
 
 .main_content_section {

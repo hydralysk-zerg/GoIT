@@ -9,10 +9,11 @@ body {
     width: 1200px;
     background: #fff;
     margin: 40px auto;
+    box-shadow: 6px 6px 20px
 }
 
 .main_content_section {
-    margin-left: 88px;
+    margin: 88px;
 }
 
 .about_me_section {
